@@ -59,7 +59,7 @@ Curious, motivated, and not afraid to start from zero ✨
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-JekaterinaToirus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Email](https://img.shields.io/badge/Email-yourmail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jekaterina.toirus@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jekaterina.toirus@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jekaterina.toirus@gmail.com)
 
 </div>
 

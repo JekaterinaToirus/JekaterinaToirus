@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&width=500&lines=Learning+by+doing+🌱;Future+AI+Developer+🤖;Building+real+projects+🚀;Step+by+step+to+mastery+✨"/>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=JekaterinaToirus&label=Profile%20views&color=FFB6C1&style=flat-square"/>
+
 </div>
 
 ---

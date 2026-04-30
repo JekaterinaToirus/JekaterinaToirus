@@ -1,14 +1,10 @@
 <div align="center">
 
-# 🌸 Hi, I'm Jekaterina
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=𝓗𝓲,%20𝓘'𝓶%20𝓙𝓮𝓴𝓪𝓽𝓮𝓻𝓲𝓷𝓪%20🌸&fontSize=40&fontAlignY=35"/>
 
-### AI Enthusiast • Future Developer • Building My Path in Tech ✨
+### ✨ AI Enthusiast • Future Developer • Building My Path in Tech
 
-I’m on a journey into tech — learning, experimenting,  
-and building projects that help me grow every day 🌱
-
-I’m especially interested in AI, automation,  
-and creating things that actually solve real problems 💡
+<img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&width=500&lines=Learning+by+doing+🌱;Future+AI+Developer+🤖;Building+real+projects+🚀;Step+by+step+to+mastery+✨"/>
 
 </div>
 
@@ -16,40 +12,49 @@ and creating things that actually solve real problems 💡
 
 ## 🌷 About Me
 
-- 🎯 Currently learning: Python, Web Development, AI basics  
-- 🚀 Goal: Become a confident developer and build real-world projects  
-- 💡 Interested in: AI, automation, design, and digital products  
-- 🌍 Based in: Estonia  
+🌱 Currently learning **Python, Web Development & AI basics**  
+🚀 Working toward becoming a **confident developer** and building real-world projects  
+💡 Interested in **AI, automation, and digital products**  
+🌍 Based in **Estonia**
 
 ---
 
 ## 💻 What I’m Working On
 
-- ✨ Building small projects to improve my coding skills  
-- 🤖 Exploring how AI can be used in everyday tasks  
-- 📚 Learning GitHub, Git, and collaboration workflows  
+✨ Building small projects to improve my skills  
+🤖 Exploring practical uses of AI in everyday life  
+📚 Learning Git, GitHub & collaboration workflows  
 
 ---
 
 ## 🌸 Learning Journey
 
-I believe in learning by doing 🌱  
-Every project I build is a step forward — even the messy ones ✨  
+> Learning by doing 🌱  
+> Every project — even imperfect — is progress ✨  
 
 ---
 
 ## 🧁 Tech Stack (growing)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git&theme=light"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JekaterinaToirus&theme=default&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 💖 A Bit About Me
 
-I’m not trying to be perfect — I’m trying to get better every day 🌷  
+I’m not trying to be perfect — I’m trying to improve every day 🌷  
 Curious, motivated, and not afraid to start from zero ✨  
 
 ---
@@ -58,8 +63,13 @@ Curious, motivated, and not afraid to start from zero ✨
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-JekaterinaToirus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Email](https://img.shields.io/badge/Email-jekaterina.toirus@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jekaterina.toirus@gmail.com)
+<a href="https://github.com/JekaterinaToirus">
+  <img src="https://img.shields.io/badge/GitHub-JekaterinaToirus-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:jekaterina.toirus@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -68,6 +78,8 @@ Curious, motivated, and not afraid to start from zero ✨
 <div align="center">
 
 ✨ Thanks for visiting my profile ✨  
-🌸 Have a lovely day 🌸
+🌸 Have a lovely day 🌸  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer"/>
 
 </div>
